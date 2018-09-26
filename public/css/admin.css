@@ -1,0 +1,30 @@
+.user-info{
+	margin-top: 5px;
+    margin-right: 50px;
+}
+.btn-add{
+	margin-bottom: 10px;
+}
+.ck-editor__editable{
+	min-height: 300px;
+}
+table.table {
+	table-layout: fixed;
+}
+td{
+	word-break: break-word;
+}
+.btn-add{
+	margin-top: 10px;
+}
+.row-site{
+	margin-bottom: 10px;
+}
+footer{
+	text-align: center;
+	margin-bottom: 10px;
+	margin-top: 1150px; 
+}
+#comment-list .panel-body{
+	word-break: break-word;
+}
